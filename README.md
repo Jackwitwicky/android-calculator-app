@@ -6,7 +6,7 @@ single activity.
 
 Arithmetic             |  Result
 :-------------------------:|:-------------------------:
-https://user-images.githubusercontent.com/8895134/39665638-3dbcf5f8-50a0-11e8-9dc1-d05c3eed1497.png |  https://user-images.githubusercontent.com/8895134/39665645-41d43e30-50a0-11e8-917f-7b0be3bcabf6.png
+![](https://user-images.githubusercontent.com/8895134/39665638-3dbcf5f8-50a0-11e8-9dc1-d05c3eed1497.png) |  ![](https://user-images.githubusercontent.com/8895134/39665645-41d43e30-50a0-11e8-917f-7b0be3bcabf6.png)
 
 
 ## How it Works
